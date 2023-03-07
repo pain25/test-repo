@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/ravi/vscode-ravi/Ethonest/ethonest/contracts/campagin.sol": {
+      "lastModificationDate": 1678036881267,
+      "contentHash": "f14c0f5209d76795187b039da07e6222",
+      "sourceName": "contracts/campagin.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Campaign",
+        "CampaignFactory"
+      ]
+    }
+  }
+}
