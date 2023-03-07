@@ -2,7 +2,8 @@
 
 Final year project
 
-moudles to import
+moudles to download
+npm install --save-dev hardhat
 ├── @emotion/react@11.10.5
 ├── @emotion/styled@11.10.5
 ├── @mui/icons-material@5.11.0
