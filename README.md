@@ -2,7 +2,8 @@
 
 Final year project
 
-moudles to download
+modules to download
+npm install
 npm install --save-dev hardhat
 ├── @emotion/react@11.10.5
 ├── @emotion/styled@11.10.5
