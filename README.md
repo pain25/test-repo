@@ -5,6 +5,7 @@ Final year project
 modules to download
 npm install
 npm install --save-dev hardhat
+put npm install before all of them below 
 ├── @emotion/react@11.10.5
 ├── @emotion/styled@11.10.5
 ├── @mui/icons-material@5.11.0
