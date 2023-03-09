@@ -1,0 +1,7 @@
+set the isactive to false 
+check if the is active is true or false
+if it is true than create a new array which will display the cards
+
+
+dashboard features
+percentage
