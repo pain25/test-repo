@@ -36,6 +36,42 @@
         "Campaign",
         "CampaignFactory"
       ]
+    },
+    "/home/ravi/Documents/extra backup/Ethonest/ethonest/contracts/campagin.sol": {
+      "lastModificationDate": 1678258249558,
+      "contentHash": "d82093b6ab62c7a48e2901e3d41e9a99",
+      "sourceName": "contracts/campagin.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Campaign",
+        "CampaignFactory"
+      ]
     }
   }
 }

@@ -109,7 +109,7 @@ export default function Index({
 }
 
 // getStaticProps will render the images in the server
-export async function getStaticProps() {
+export async function getServerSideProps() {
   //to get data from blockchain
   const provider = new ethers.providers.JsonRpcProvider(
     process.env.NEXT_PUBLIC_RPC_URL
@@ -221,8 +221,8 @@ export async function getStaticProps() {
       HealthData,
       EducationData,
       AnimalData,
+      revalidate: 10,
     },
-    revalidate: 10,
   };
 }
 
