@@ -26,4 +26,5 @@ npm install --save-dev hardhat
 ├── react-toastify@9.1.1
 ├── react@18.2.0
 └── styled-components@5.3.6
+npm i react-animated-cursor
 '''
