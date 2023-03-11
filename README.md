@@ -27,4 +27,5 @@ npm install --save-dev hardhat
 ├── react@18.2.0
 └── styled-components@5.3.6
 npm i react-animated-cursor
+npm install dotenv
 '''
