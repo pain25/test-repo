@@ -28,4 +28,5 @@ npm install --save-dev hardhat
 └── styled-components@5.3.6
 npm i react-animated-cursor
 npm install dotenv
+npm install ethers
 '''
