@@ -29,4 +29,5 @@ npm install --save-dev hardhat
 npm i react-animated-cursor
 npm install dotenv
 npm install ethers@latest
+npm i --save-dev "babel-plugin-styled-components"
 '''
